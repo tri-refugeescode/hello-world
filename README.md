@@ -1,2 +1,4 @@
 # hello-world
-Learning basics of GitHub
+Learning the basics of GitHub.
+
+Very excited!!!
