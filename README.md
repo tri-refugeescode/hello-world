@@ -1,4 +1,4 @@
 # hello-world
 Learning the basics of GitHub.
 
-Very excited!!!
+Very excited and looking forward to learning more!!!
